@@ -1,0 +1,258 @@
+/*Dando estilo a encabezado*/
+.navbar-default{
+  background:#2C3E50;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-color:#2C3E50;
+  }
+  .navbar-default .navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-size:2em;
+    font-weight: bold;
+    padding-left: 3em;
+  }
+  .navbar-default .navbar-nav>li>a{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.2em;
+    font-weight: bold;
+  }
+  ul{
+    padding-right: 6em;
+  }
+  /*Dando estilo a seccion start Boostrap*/
+  .second-section{
+    background-color: #18BC9C;
+    height: 55em;
+  }
+.profile{
+  margin-top: 15em;
+  margin-left: 4em;
+}
+ .title{
+   color: white;
+   font-family: 'Montserrat', sans-serif;
+   font-size:4.5em;;
+   font-weight:bold;
+   padding-left: 3.5em;
+   margin-top: 0.3em;
+ }
+ .fa.fa-star-o{
+   color: white;
+   font-size: 2.5em;
+   margin-left: 0.3em;
+   display: inline-block;
+ }
+
+.linea1{
+   border-top:5px solid white;
+   width: 10em;
+   margin-left: 25em;
+   display: inline-block;
+ }
+ .linea2{
+   border-top:5px solid white;
+   width: 10em;
+   margin-left: 0.5em;;
+   display: inline-block;
+ }
+ h3{
+  color: white;
+  font-family: 'lapo', sans-serif;
+  margin-left: 9em;
+}
+
+/*creando sección portafolio*/
+.third-section{
+  height: 60em;
+}
+h4{
+  color: #212529;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  font-weight:bold;
+  margin-left: 9em;
+  margin-top: 2.5em;
+}
+.star .fa.fa-star-o{
+  color: #212529;
+  display: inline-block;
+}
+hr.linea-star3{
+  border-top:5px solid #212529 ;
+  width: 8em;
+  margin-left: 27em;
+  display: inline-block;
+}
+hr.linea-star4{
+  border-top:5px solid #212529 ;
+  width: 8em;
+  margin-left: 1em;
+  display: inline-block;
+}
+.photos{
+  padding-top: 3em;
+}
+.cabin{
+  width: 80%;
+  margin-left: 5em;
+}
+.cake{
+  width: 80%;
+  margin-left: 3em;
+}
+.circus{
+  width: 80%;
+}
+.game{
+  width: 80%;
+  margin-left: 5em;
+}
+.safe{
+  width: 80%;
+  margin-left: 3em;
+}
+.submarine{
+  width: 80%;
+}
+/*creando seccion about*/
+.quarter-section{
+  background-color: #18BC9C;
+  height: 40em;
+}
+.text-about{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  font-weight:bold;
+  margin-left: 9.5em;
+  margin-top: 2em;
+  padding-bottom: -1em;
+}
+.linea5{
+   border-top:5px solid white;
+   width: 7em;
+   margin-left: 26em;
+   display: inline-block;
+ }
+ .linea6{
+   border-top:5px solid white;
+   width: 7em;
+   margin-left: 0.5em;;
+   display: inline-block;
+ }
+.text-left{
+  color: white;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+.text-right{
+  color: white;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+.btn{
+  margin-top: 3em;
+  margin-left: 29em;
+}
+.btn-default{
+  background-color: #18BC9C;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  border: 1px solid white;
+}
+.fa.fa-download{
+  padding-right: 0.5em;
+}
+/*Dando estilo a seccion contact me*/
+.fifth-section{
+  height: 60em;
+}
+.text-contact{
+  color: #868E96;
+  font-family: 'Lato', sans-serif;
+  font-size:1.5em;
+  font-weight: normal;
+  margin-left: 15em;
+  margin-top: 2em;
+}
+.linea7{
+  color: #868E96;
+  width: 40em;
+  margin-left: 22em;
+}
+.send{
+  margin-top: 3em;
+  margin-left: 22em;
+}
+/*dando estilo a seccion info footer*/
+.sixth-section{
+  background-color:#2C3E50;
+  height: 20em;
+}
+.location{
+  padding-left: 15em;
+}
+.freelance{
+  padding-right: 8em;
+}
+.footer-text{
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.4em;
+  font-weight:bold;
+  margin-top: 2em;
+  text-align: center;
+}
+.parrafo-info{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size:1em;
+  margin-top: 0.3em;
+  font-weight: normal;
+  text-align:center;
+}
+#destacado{
+  color: #18BC9C;
+}
+
+.fa.fa-facebook-official{
+  color: white;
+  font-size: 3em; ;
+  margin-left: 2.2em;
+  margin-top: 0.3em;
+  display: inline-block;
+}
+
+.fa.fa-google-plus-official{
+  color: white;
+  font-size: 3em;
+  display: inline-block;
+}
+.fa.fa-twitter{
+  color: white;
+  font-size: 3em ;
+  display: inline-block;
+}
+.fa.fa-linkedin-square{
+  color: white;
+  font-size: 3em ;
+  display: inline-block;
+}
+.fa.fa-dribbble{
+  color: white;
+  font-size: 3em;
+}
+.text-copyright{
+  color:white;
+  font-family: 'Lato', sans-serif;
+  font-size:1em;
+  font-weight: normal;
+  text-align:center;
+  margin-top: 5em;
+}
